@@ -43,20 +43,20 @@ Este é um **projeto acadêmico** desenvolvido em **React**, com o objetivo de p
 
 ## 🖼️ Prints da Aplicação
 
-### 📚 Tela da Estante
-![Tela da Estante](img/prints/img1.png)
+### 📚 Cabeçalho da Estante
+![Cabeçalho da Estante](prints/img1.png)
 
-### 🔍 Tela de Pesquisa
-![Tela de Pesquisa](img/prints/img2.png)
+### 🔍📚 Categoria da Estante com Livro
+![Categoria da Estante com Livro](prints/img2.png)
 
-### 📑 Menu de Categorias
-![Menu de Categorias](img/prints/img3.png)
+### 📑📚 Categoria da Estante sem Livros
+![Categoria da Estante sem Livros](prints/img3.png)
 
-### ✅ Seleção de Categoria
-![Seleção de Categoria](img/prints/img4.png)
+### 🔍 Cabeçalho da Tela de Pesquisa
+![Cabeçalho da Tela de Pesquisa](prints/img4.png)
 
-### 📦 Organização por Estado
-![Organização por Estado](img/prints/img5.png)
+### 📦 Cards dos Livros com Foto, Título, Autor(a/es/as), Descrição e Botão de Categorização
+![Cards dos Livros com Foto, Título, Autor(a/es/as), Descrição e Botão de Categorização](prints/img5.png)
 
 ---
 
