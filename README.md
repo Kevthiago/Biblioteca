@@ -36,7 +36,6 @@ Este é um **projeto acadêmico** desenvolvido em **React**, com o objetivo de p
 | 📌 Categorização | Marque livros como **Lido**, **Estou Lendo** ou **Tenho Interesse**. |
 | 📚 Estante Pessoal | Veja os livros adicionados organizados por categoria. |
 | 🔄 Atualização de Categoria | Altere a categoria de um livro mesmo após ele estar na estante. |
-| 🗑️ Remoção | Remova um livro da estante a qualquer momento. |
 | 💾 Persistência Local | Os dados ficam salvos no navegador, mesmo após atualizar a página (F5). |
 
 ---
@@ -78,7 +77,7 @@ Este é um **projeto acadêmico** desenvolvido em **React**, com o objetivo de p
 └── styles.css             # Estilo global da aplicação
 
 📄 package.json            # Dependências e scripts do projeto
-
+```
 ---
 
 ## ✨ Destaques Técnicos
