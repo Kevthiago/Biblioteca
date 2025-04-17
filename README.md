@@ -45,10 +45,10 @@ Este é um **projeto acadêmico** desenvolvido em **React**, com o objetivo de p
 ### 📚 Cabeçalho da Estante
 ![Cabeçalho da Estante](prints/img1.png)
 
-### 🔍📚 Categoria da Estante com Livro
+### 📚 Categoria da Estante com Livro
 ![Categoria da Estante com Livro](prints/img2.png)
 
-### 📑📚 Categoria da Estante sem Livros
+### 📚 Categoria da Estante sem Livros
 ![Categoria da Estante sem Livros](prints/img3.png)
 
 ### 🔍 Cabeçalho da Tela de Pesquisa
