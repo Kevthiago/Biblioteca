@@ -1,0 +1,28 @@
+.estante-container {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #f3f4f6;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.estante-title {
+  font-size: 1.8em;
+  color: #333;
+  border-bottom: 2px solid #4a90e2;
+  padding-bottom: 8px;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+}
+
+.estante-books {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-right: 30px;
+  gap: 16px;
+}
+
+.estante-empty {
+  color: #888;
+  font-style: italic;
+}
